@@ -5,7 +5,7 @@ A simple zero dependency react-button component for React 16+.
 ## Installation
 
 ```bash
-npm intall react-custom-button-component --save
+npm install react-custom-button-component --save
 ```
 
 Alternatively you can also use
