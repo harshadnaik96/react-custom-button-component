@@ -37,6 +37,18 @@
   },
   "name": "react-custom-button-component",
   "author": "Harshad Naik",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harshadnaik96/react-custom-button-component"
+  },
+  "homepage": "https://github.com/harshadnaik96/react-custom-button-component",
+  "keywords": [
+    "react",
+    "reactjs",
+    "react-component",
+    "button",
+    "react-button"
+  ],
   "module": "dist/react-custom-button-component.esm.js",
   "size-limit": [
     {
